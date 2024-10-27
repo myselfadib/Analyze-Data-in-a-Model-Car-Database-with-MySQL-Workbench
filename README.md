@@ -25,6 +25,6 @@ This project demonstrates the use of SQL for a comprehensive inventory managemen
 
 ## Author:
 - **Adib Hasan**  
-  [Connect with me on LinkedIn](https://www.linkedin.com/in/adib-hasan-19n/)
+  [Connect with me on LinkedIn](https://www.linkedin.com/in/adibhasan1/)
 
 This project highlights practical applications of SQL in data analysis and decision-making, particularly in the realm of inventory management and warehouse optimization.
